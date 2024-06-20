@@ -1,9 +1,9 @@
 #################### default parameters ################################
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
-favicon = "images/thornix-landscape.jpg"
+favicon = "images/THORNIX.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
-logo = "images/thornix-landscape.jpg"
-logo_darkmode = "images/thornix-landscape.jpg"
+logo = "images/thornix-landscape-white.png"
+logo_darkmode = "images/thornix-landscape-black.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "160px"
@@ -57,7 +57,8 @@ show_categories = true
 [announcement]
 enable = true
 expire_days = 7
-content = "You must replace the **baseURL** in **hugo.toml** file when deploying, you can manage this announcement from the **params.toml** file."
+# content = "You must replace the **baseURL** in **hugo.toml** file when deploying, you can manage this announcement from the **params.toml** file."
+content = "Welcome! We're updating the site. Please contact admin@thornix.ai for any inquiries."
 
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
