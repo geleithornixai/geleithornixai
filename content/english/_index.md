@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "ThorNix: Secure with AI"
-  content: "ThorNix provides AI enhanced cybersecurity solutions to address your security needs. Our solutions are designed to protect your business from cyber threats and vulnerabilities."
+  content: "ThorNix provides AI-enhanced cybersecurity solutions tailored to a diverse range of sectors including financial institutions, healthcare organizations, tech companies, educational bodies, and government agencies."
   image: "/images/banner.png"
   button:
     enable: true
@@ -11,28 +11,26 @@ banner:
 
 # Features
 features:
-  - title: "What do we provide"
+  - title: "Comprehensive Cybersecurity Solutions"
     image: "/images/service-1.png"
-    content: "ThorNix offers a range of cybersecurity solutions to help you protect your business from cyber threats. Our solutions are designed to address your security needs and protect your business from vulnerabilities. We provide security enhancements through state-of-the-art AI technology."
+    content: "ThorNix offers robust cybersecurity solutions customized to protect your business from emerging cyber threats. Our solutions are enhanced with the latest AI technology, securing a diverse range of sectors."
     bulletpoints:
-      - "Comprehensive cybersecurity frameworks"
-      - "Real-time threat detection using AI"
-      - "Tailored solutions for diverse business needs"
-      - "Fully responsive support system"
-      - "SEO-optimized security solutions for better protection"
-      - "**Open-source and customizable** for personal and commercial use"
+      - "Custom AI Security Models for real-time threat detection"
+      - "Blockchain Security Solutions to safeguard transactions"
+      - "Extensive Cybersecurity Training Programs"
+      - "Detailed Security Audits and Compliance Services"
     button:
-      enable: false
+      enable: true
       label: "Learn More"
       link: "#"
 
-  - title: "Advanced Security Technologies"
+  - title: "Tailored AI-Enhanced Security"
     image: "/images/service-2.png"
-    content: "Explore cutting-edge technologies implemented in our security solutions. We leverage advanced AI algorithms to predict and mitigate risks before they become threats."
+    content: "Explore cutting-edge AI and blockchain technologies implemented in our security solutions. We provide predictive threat analysis and custom solutions designed to protect your digital assets and data."
     bulletpoints:
-      - "AI-powered predictive threat analysis"
-      - "Blockchain for enhanced security protocols"
-      - "Customizable AI solutions to fit your needs"
+      - "AI-driven real-time surveillance and response systems"
+      - "Secure blockchain infrastructures for enhanced data integrity"
+      - "Customizable solutions to fit specific industry needs"
     button:
       enable: true
       label: "Discover More"
@@ -40,12 +38,11 @@ features:
 
   - title: "Why Choose ThorNix?"
     image: "/images/service-3.png"
-    content: "Choosing ThorNix means securing your digital infrastructure with top-notch AI-powered solutions that adapt to the ever-evolving cyber threat landscape."
+    content: "Choosing ThorNix means partnering with a leader in cybersecurity. We provide scalable, AI-powered solutions tailored to your business needs, ensuring top-notch protection as your business grows."
     bulletpoints:
-      - "Proactive security measures for preemptive protection"
-      - "Scalable solutions that grow with your business"
-      - "Dedicated support for seamless security integration"
-      - "Stay ahead with continuous updates and innovations"
+      - "Adaptable cybersecurity measures for evolving threats"
+      - "Proactive solutions for preemptive protection"
+      - "Ongoing support and updates to keep you ahead"
     button:
       enable: true
       label: "Join Us"
